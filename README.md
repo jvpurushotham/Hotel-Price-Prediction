@@ -70,7 +70,7 @@ To run this project locally:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/nyc-hotel-data-analysis.git
+git clone https://github.com/yourusername/NewYorkCity_Hotels_Data_Analysis.git
 cd NewYorkCity_Hotels_Data_Analysis
 
 Run the analysis notebooks or scripts:
