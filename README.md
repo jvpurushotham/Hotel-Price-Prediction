@@ -54,7 +54,7 @@ The project leverages the following tools and libraries:
 To run this project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/yourusername/NewYorkCity_Hotels_Data_Analysis.git
+git clone https://github.com/jvpurushotham/NewYorkCity_Hotels_Data_Analysis.git
 cd NewYorkCity_Hotels_Data_Analysis
 Run the Jupyter Notebook:
 jupyter notebook NewYorkCity_Hotels_Data_Analysis.ipynb
